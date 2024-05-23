@@ -1,72 +1,44 @@
-# Getting Started with Create React App
+# CmaxPower Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the CmaxPower website repository! This project was developed during an internship. It utilizes React JS and React Router for routing between pages, Bootstrap for styling, and includes animations. The website is completely responsive.
 
-## Available Scripts
+## Technologies Used
 
-In the project directory, you can run:
+- **React JS**: A JavaScript library for building user interfaces, used for creating dynamic and interactive components in the website.
+- **React Router**: A routing library for React, used to handle navigation between different pages in the single-page application.
+- **Bootstrap**: A popular CSS framework for building responsive and mobile-first websites, used for styling the website components and layouts.
 
-### `npm start`
+## Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Home Page
+The home page features a sleek design with intuitive navigation and engaging animations.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Home Page](https://github.com/samanuekola/Cmaxpower/assets/170651885/664ce172-eff9-47c8-88a4-67a155dc8fa5)
 
-### `npm test`
+![Home Page](https://github.com/samanuekola/Cmaxpower/assets/170651885/aa47c10e-42b3-4748-9fb8-335338af3b0a)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Home Page](https://github.com/samanuekola/Cmaxpower/assets/170651885/bd42e95a-2ce7-406a-a120-8b36decf5f63)
 
-### `npm run build`
+### Company Page
+Learn more about CmaxPower Company, its mission, vision, and values on the Company Page.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Company Page](https://github.com/samanuekola/Cmaxpower/assets/170651885/3d1fee72-f7e8-453c-bed8-42fea3db9b1e)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Services Page
+Explore the wide range of services offered by CmaxPower on the Services Page.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Services Page](https://github.com/samanuekola/Cmaxpower/assets/170651885/058b2638-8229-4378-bc00-484f8ba066b8)
 
-### `npm run eject`
+### Products Page
+Discover the latest products and innovations by CmaxPower on the Products Page.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Products Page](https://github.com/samanuekola/Cmaxpower/assets/170651885/75149d35-caa5-48de-95ed-a7989fe7089c)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Footer Page
+The footer provides quick access to important links and contact information.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Footer Page](https://github.com/samanuekola/Cmaxpower/assets/170651885/10278d1b-3f92-4c6b-a0c7-ed510e76e8de)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Get Started
+To explore the website further, visit [CmaxPower website](https://cmaxpower.com/).
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Cmaxpower
-# Cmaxpower
